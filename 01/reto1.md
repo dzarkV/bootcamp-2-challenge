@@ -16,7 +16,7 @@ Y file2.txt debe permanecer vacío.
 
 ## Ejercicio 2 - Manejo de contenido de archivos
 
-Mediante comandos de bash, vuelca el contenido de file1.txt a file2.txt y mueve file2.txt a la carpeta empty.
+Mediante comandos de bash, vuelva el contenido de file1.txt a file2.txt y mueve file2.txt a la carpeta empty.
 El resultado de los comandos ejecutados sobre la jerarquía anterior deben dar el siguiente resultado.
 ```
 foo/
