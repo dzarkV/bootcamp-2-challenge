@@ -14,6 +14,8 @@ Donde file1.txt debe contener el siguiente texto:
 `Me encanta bash!!`
 Y file2.txt debe permanecer vacío.
 
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/01/ejercicio1-file-manage.sh target=_blank>Hecho</a></li></ul>
+
 ## Ejercicio 2 - Manejo de contenido de archivos
 
 Mediante comandos de bash, vuelva el contenido de file1.txt a file2.txt y mueve file2.txt a la carpeta empty.
@@ -28,11 +30,15 @@ foo/
 Donde file1.txt y file2.txt deben contener el siguiente texto:
 `Me encanta bash!!`
 
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/01/ejercicio2-content-manage.sh target=_blank>Hecho</a></li></ul>
+
 ### Ejercicio 3 - Argumentos del script
 
 Crear un script de bash que agrupe los pasos de los ejercicios anteriores y además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo.
 Si se le pasa un texto vacío al invocar el script, el texto de los ficheros, el texto por defecto será:
 `Que me gusta bash!!!!`
+
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/01/ejercicio3-scripts-args.sh target=_blank>Hecho</a></li></ul>
 
 ### Ejercicio 4 - Opcional
 
@@ -40,3 +46,4 @@ Crea un script de bash que descargue el contenido de una página web a un ficher
 por ejemplo "https://es.wikipedia.org/wiki/DevOps"
 Una vez descargado el fichero, que busque en el mismo una palabra dada (esta se pasará por parametro) y muestre por pantalla el número de linea donde aparece.
 
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/01/ejercicio4-optional.sh target=_blank>Hecho</a></li></ul>
