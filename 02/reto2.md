@@ -5,6 +5,8 @@
 
 > Deberás quitarle todos los permisos con el comando <pre>`chmod a-rwx archiv*`</pre>
 
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/02/ejercicio1.sh target=_blank>Hecho</a></li></ul>
+
 ---
 <br>
 
@@ -21,6 +23,8 @@
 | archiv7            | -r-------x | **```$ chmod u=r,g=,o=x archiv7```**|
 | archiv8            | -rw-r--r-- | **```$ chmod u=rw,g=r,o=r archiv8```**|
 | archiv9            | -rw-rw-r-- | **```$ chmod u=rw,g=rw,o=r archiv9```**|
+
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/02/ejercicio2.sh target=_blank>Hecho</a></li></ul>
 
 ---
 <br>
@@ -44,6 +48,8 @@
 | archiv7            | -rw---x-w- | **`$ chmod u+w,g+x,o-x,o+w archiv7`** |
 | archiv8            | -------r-- | **`$ chmod u-rw,g-r archiv8`** |
 | archiv9            | -rw-rw-r-- | **`$ chmod u+rw,g+rw,o+r archiv9`** |
+
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/02/ejercicio3.sh target=_blank>Hecho</a></li></ul>
 
 ---
 <br>
