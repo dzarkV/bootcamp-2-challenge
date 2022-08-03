@@ -68,3 +68,5 @@ Roxs es la líder de un equipo de trabajo para una compañía que realiza Audito
 >4. Verificar los permisos de acceso al archivo.
 
 Entregable, crear un Readme.md con la solución al Problema propuesto
+
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/02/reto2-problema.md target=_blank>Hecho</a></li></ul>
