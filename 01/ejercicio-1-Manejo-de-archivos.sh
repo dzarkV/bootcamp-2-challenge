@@ -10,3 +10,4 @@ then
     echo "Me encanta bash!!" >> file1.txt
 else
     echo "La carpeta foo ya fue creada"
+fi
