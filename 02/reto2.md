@@ -5,6 +5,8 @@
 
 > Deberás quitarle todos los permisos con el comando <pre>`chmod a-rwx archiv*`</pre>
 
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/lauraRamos/02/challenge2Reto2Ejer1.sh target=_blank>Resuelto</a></li></ul>
+
 ---
 <br>
 
