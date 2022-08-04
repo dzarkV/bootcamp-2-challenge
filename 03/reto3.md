@@ -10,3 +10,5 @@
 - Sube un nivel de directorio, es decir, vuelve al directorio anterior.
 - Crea un enlace al archivo que creaste en esta carpeta llamado "enlace.ln".
 - Elimina el directorio "nueva_carpeta" y los archivos que contenga.
+
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/03/ejericio-reto3.sh target=_blank>Hecho</a></li></ul>

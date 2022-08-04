@@ -10,4 +10,4 @@ Puedes acceder a la descripción de cada reto dando clic en los siguientes enlac
 
 - [x] [Reto 1](https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/01/reto1.md)
 - [x] [Reto 2](https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/02/reto2.md)
-- [ ] [Reto 3](https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/03/reto3.md)
+- [x] [Reto 3](https://github.com/dzarkV/bootcamp-2-challenge/blob/add/diegoVargas/03/reto3.md)
