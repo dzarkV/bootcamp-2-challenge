@@ -15,7 +15,7 @@ if [[ -e nuevo_directorio ]]; then
             chmod u=rwx,g=rw,o=r nuevo_directorio/archiv4
         fi
         if [[ $i =~ archiv5 ]]; then
-            chmod u=rwx,g=r, nuevo_directorio/archiv5
+            chmod u=rwx,g=r nuevo_directorio/archiv5
         fi
         if [[ $i =~ archiv6 ]]; then
             chmod u=rx,g=rw,o=r nuevo_directorio/archiv6
