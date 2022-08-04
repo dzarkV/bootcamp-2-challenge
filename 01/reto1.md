@@ -33,7 +33,7 @@ Donde file1.txt y file2.txt deben contener el siguiente texto:
 Crear un script de bash que agrupe los pasos de los ejercicios anteriores y además permita establecer el texto de file1.txt alimentándose como parámetro al invocarlo.
 Si se le pasa un texto vacío al invocar el script, el texto de los ficheros, el texto por defecto será:
 `Que me gusta bash!!!!`
-<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/lauraRamos/01/challenge1Reto1Ejer3.sh target=_blank>Resuelto</a></li></ul>
+<ul><li>- [x] <a href=https://github.com/dzarkV/bootcamp-2-challenge/blob/add/lauraRamos/01/challenge2Reto1Ejer3.sh target=_blank>Resuelto</a></li></ul>
 
 ### Ejercicio 4 - Opcional
 
