@@ -5,7 +5,7 @@ text=$1
 if [[ ! -d foo ]]
 then
     mkdir foo foo/dummy foo/empty
-    touch file1.txt file2.txt
+    touch foo/dummy/file1.txt foo/dummy/file2.txt
 else
     echo "La carpeta foo ya fue creada"
 fi
@@ -16,7 +16,7 @@ then
     echo $text >> foo/dummy/file1.txt
 else
     echo $text >> foo/dummy/file1.txt
-
+fi
 
 if [[ -f foo/dummy/file1.txt && -f foo/dummy/file2.txt ]]
 then
