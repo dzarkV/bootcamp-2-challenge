@@ -1,4 +1,4 @@
-## Limitación del problema
+## Delimitación del problema
 
 El líder del equipo debe resguardar los datos del archivo `Lista_Precios` en su directorio `/home` y solamente él debe tener acceso al mismo porque el archivo es altamente confidencial.
 
