@@ -14,7 +14,7 @@ if [[ ! -d gestion-de-permisos ]]
 then
     crearArchivos
 else
-    rm -rf mkdir gestion-de-permisos
+    rm -rf gestion-de-permisos
     crearArchivos
 fi
 

@@ -12,7 +12,7 @@ then
     crearJerarquia
 
 else
-    rm -rf foo
+    rm -r foo
     crearJerarquia
 fi
 
