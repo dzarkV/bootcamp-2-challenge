@@ -17,3 +17,5 @@
 - Los otros grupos distintos al administrador y al líder deben ser removidos los permisos de lectura, escritura, ejecución y este archivo confidencial dejarselo netamente asignado al dueño que sería para mnuestro caso el líder con los permisos completos para el archivo confidencial. 
 
 ## 4. Verificar los permisos de acceso al archivo.
+
+- Para verificar los permisos del archivo confidencial podemos ejecutar el comando ls -l apuntando a la ruta del archivo /home/Lista_Precios
